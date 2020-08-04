@@ -1,0 +1,50 @@
+.footer {
+  height: 1000px;
+}
+.container {
+  height: 250px;
+  width: 350px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+}
+.card-img-top{
+  border-radius: 20%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 300px;
+  border-radius: 15px 50px 30px 5px;
+}
+.contactimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20px;
+  height: 20px;
+  border-radius: 15px 30px 30px 5px;
+}
+.abt
+{
+  border-radius: 50%;
+}
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
